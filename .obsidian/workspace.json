@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "dc95ad3918c40d16",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dacb4b6915ca127",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "176699ddb5b16028",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd6ca50c3b60d8fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001 File system structure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39de4878269b0b26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 Basic Commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c96363036a2620cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef8514c2eb432648",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e615da30898ac0f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "db470f9ee18a0193",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42cf4211138b4ac0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9df1e74af2e56360",
+    "type": "split",
+    "children": [
+      {
+        "id": "4235767a9aafc067",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d002bd1b2e632aad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "002 Basic Commands.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8c070d7513646abb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "002 Basic Commands.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d25e0f21906e3d50",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dd2a087e30b1641d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "002 Basic Commands.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
+    }
+  },
+  "active": "39de4878269b0b26",
+  "lastOpenFiles": [
+    "001 File system structure.md",
+    "002 Basic Commands.md",
+    "images/standard-unix-filesystem-hierarchy-1.webp",
+    "images",
+    "Nuova cartella",
+    "README.md"
+  ]
+}
