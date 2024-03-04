@@ -47,14 +47,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOCUMENTAZIONE.md",
+                "file": "002 Basic Commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bfe61f07b296fb6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Text Manipulation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ff489474c21722c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Capitolo 3 - Control File and dir permissione.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -120,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DOCUMENTAZIONE.md",
+                "file": "04 Capitolo 3 - Control File and dir permissione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DOCUMENTAZIONE.md",
+                "file": "04 Capitolo 3 - Control File and dir permissione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DOCUMENTAZIONE.md"
+                "file": "04 Capitolo 3 - Control File and dir permissione.md"
               }
             }
           }
@@ -181,15 +205,18 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "744afeedef9bdd49",
+  "active": "7ff489474c21722c",
   "lastOpenFiles": [
-    "documents/LinuxUserManage.pdf",
-    "DOCUMENTAZIONE.md",
+    "03 Text Manipulation.md",
+    "04 Capitolo 3 - Control File and dir permissione.md",
     "002 Basic Commands.md",
+    "Scripting01.md",
+    "README.md",
+    "DOCUMENTAZIONE.md",
     "001 File system structure.md",
+    "documents/LinuxUserManage.pdf",
     "images/standard-unix-filesystem-hierarchy-1.webp",
     "images",
-    "Nuova cartella",
-    "README.md"
+    "Nuova cartella"
   ]
 }

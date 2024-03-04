@@ -20,7 +20,7 @@ oppure anche
  
 **_locate nomeOggetto_**
 
-pero i file binaries usi anche 
+per i file binaries usi anche 
 **_whereis nomeBinaries_**
 	
 per binaries in path usa 
@@ -34,7 +34,7 @@ Trova da directory /etch  - di tipo file  con nome apache2 e qualunque estension
 
 ## Filtri con grep
 
-Concetto di piping con | 
+**Concetto di piping con |** 
 Spesso output di un comando serve in piping su un altro comando.
 Ora per esempio kali> **_ps aux_** mi da tuti i processi che girano ma se mi serve solo sapere i processi con una certa keyword lo mando in pipe a **grep** usando
 
@@ -62,7 +62,7 @@ per sovrascrivere usi di nuovo
 **_cat > nomeFile_**
 
 -----
-comando touch
+comando **touch**
 _____
 Crea directory
 kali> _**mkdir**_ nomeDirectory
