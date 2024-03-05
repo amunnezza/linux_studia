@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 File system structure.md",
+                "file": "01 File system structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 Basic Commands.md",
+                "file": "02 Basic Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,14 +83,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/Git Cheat Sheet – Git Commands You Should Know - IMPACTMILLIONS.md",
+                "file": "DOCUMENTAZIONE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b426e6a1788956a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07 Managing Kernel and Loadable Kernel Modules (LKM).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -156,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT/Git Cheat Sheet – Git Commands You Should Know - IMPACTMILLIONS.md",
+                "file": "07 Managing Kernel and Loadable Kernel Modules (LKM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIT/Git Cheat Sheet – Git Commands You Should Know - IMPACTMILLIONS.md",
+                "file": "07 Managing Kernel and Loadable Kernel Modules (LKM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/Git Cheat Sheet – Git Commands You Should Know - IMPACTMILLIONS.md"
+                "file": "07 Managing Kernel and Loadable Kernel Modules (LKM).md"
               }
             }
           }
@@ -217,18 +229,19 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "59c35a3beb44d5c6",
+  "active": "b426e6a1788956a2",
   "lastOpenFiles": [
-    "Environment Variable.md",
+    "06 capitolo 7 Environment Variable.md",
+    "03 Text Manipulation.md",
+    "02 Basic Commands.md",
+    "01 File system structure.md",
+    "07 Managing Kernel and Loadable Kernel Modules (LKM).md",
+    "DOCUMENTAZIONE.md",
+    "Scripting01.md",
+    "05 Process.md",
     "GIT/Git Cheat Sheet – Git Commands You Should Know - IMPACTMILLIONS.md",
     "GIT",
-    "05 Process.md",
-    "03 Text Manipulation.md",
     "04 Capitolo 3 - Control File and dir permissione.md",
-    "DOCUMENTAZIONE.md",
-    "002 Basic Commands.md",
-    "001 File system structure.md",
-    "Scripting01.md",
     "README.md",
     "documents/LinuxUserManage.pdf",
     "images/standard-unix-filesystem-hierarchy-1.webp",
