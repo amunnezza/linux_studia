@@ -46,5 +46,24 @@ i signal possono essere
 1 - restart
 2 Terminate 
 
-## lanciare in background (rivedere sul libro)
-					 
+## lanciare in background 
+A volte conviene lanciare il programma e chiudere la shell. Per esempio 
+*root > mousepad prova.txt*
+ lancia editor ma rimane la finestra di shell aperta. Allora conviene usare 
+*root> mousepad prova.txt **&***
+per riportare in foreground usa 
+*root> fg NomeProcesso (oppure PID? )*
+
+## Scheduling 
+Scheduling puo essere utile ad esempio con backup fatti a un certo orario
+
+root> at <TIME>
+			. time ha molti formati
+entra in modalita interattiva e specifici i comandi che vuoi eseguire 
+
+**Funziona una volta sola**    
+
+
+Per scheduling permanente usa cron (vedremo dopo)
+
+
