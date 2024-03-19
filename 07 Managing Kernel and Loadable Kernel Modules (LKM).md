@@ -10,7 +10,7 @@ KERNEL :
 	- ECC. ECC. 
 USER LAND ( TUTTO IL RESTO )
 
-##### Kernel is monolitick
+##### Kernel is monolitico
 But kernel can need an update (e.g. USB o BLUETOOTH managment) e in passato si doveva ricompilare il kernel.
 Ora invece meccanismo di Loadable Kernel Module ovvero **LKM**.
 Ovvero aggiungere dei moduli a richiesta se necessari. 
@@ -30,7 +30,7 @@ _root > sysctl -a | less_
 per analizzare. 
 Per esempio analizziamo ipv4 e si vede net.ipv4.ip-forward=0 ovvero non fa forward per default. 
 Come hacker se voglio avere invece il forward basta cambiarlo a 1 (fa forward)
-Da un punto di vista difensivo si puo ad esempio disabilitare ICMP (non risponde a ping)
+Da un punto di vista difensivo si puo' ad esempio disabilitare ICMP (non risponde a ping)
 
 **Manage the module**
 Esistono due modi:
