@@ -1,24 +1,24 @@
 - How to 
-	Find
-	View 
-	Which use more resource
+	**Find**
+	**View** 
+	**Which use more resource**
 - Can run in :
 	-  Background
 	- Prioritaize and schedule
 	- Kill
 
-root > ps -----> PID TTY TIME CMD         (ONLY THE ONE FOR USER)
+***root > ps*** -----> PID TTY TIME CMD         (**ONLY THE ONE FOR USER**)
 
-ROOT> ps -aux  (all the process of all user)
+***ROOT> ps -aux***  (all the process of all user)
 
 Can filter with name 
 es: lancia metasploit e poi :
 
-root> ps aux | grep msfconsole 
+***root> ps aux | grep msfconsole*** 
 da tutti i processi con msfconsole
 
 ## check dal piu ingordo 
-root> top 
+***root> top*** 
 
 ## Change priority
 Il concetto base è che processi si contendono risorse

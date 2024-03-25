@@ -84,7 +84,7 @@ Il nuovo valore dal attuale ambiente (the bash shell) andra nel resto del sistem
 Variabili sono stringhe quindi accortamente salva i valori prima di modificarli.
 Es. PS1 controlla info del prompt:
 Prima salvi il valore in file di testo :
-*kali >echo $HISTSIZE> ~/valueofHISTSIZE.txt*
+*kali >echo $HISTSIZE> ~/valueofHISTSIZE.txt*  
 per ristabilirlo se vuoi dopo.
 
 Ancora meglio salva tutti i settings correnti con 
