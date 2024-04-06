@@ -63,23 +63,20 @@ HISTSIZE=1000*
 As you can see the default value set to 1000  This indicates that the terminal will store your last 1,000 commands by default.
 
 ##### Changing Variable Values for a Session
-As noted, the HISTSIZE is the value of the number of commands to store in the
-history file. 
 Sometimes, you won’t want your system to save past commands—perhaps because you don’t want to leave any evidence of your activity on your own system or a target system. 
 In that case, you can set the HISTSIZE variable to 0 
 
-*kali >HISTSIZE=0**
-
+*kali >HISTSIZE=0*
+(NB IN KALI ANCHE SE METTI 0 MENO DI UNO NON FA FARE)
 Now, when you try to use the up- and down-arrow keys to recall your
 commands, nothing happens because the system no longer stores them.
 This is stealthy, although it can be inconvenient.
 
 ##### Making Variable Value Changes Permanent
-That change only occurs in that particular environment; in this case, that environment is the bash
-shell session. 
+That change only occurs in that particular environment; in this case, that environment is the bash shell session. 
 This means that when reopen  the terminal changes  are lost and values set back to defaults. 
 To make the changes permanent use the **export** command. 
-Il nuovo valore dal attuale ambiente (the bash shell) andra nel resto del sistem disponibile in ogni ambiente.
+Il nuovo valore dal attuale ambiente (the bash shell) andra nel resto del sistema disponibile in ogni ambiente.
 
 Variabili sono stringhe quindi accortamente salva i valori prima di modificarli.
 Es. PS1 controlla info del prompt:
@@ -96,7 +93,7 @@ Rendi cambio permanente con:
 Per tornare indietro a 1,000:
 *kali >HISTSIZE=1000*
 *kali >export HISTSIZE*
-
+#### Changing your shell prompt
 Esempio cambio Shell Prompt
 La shell prompt da info . Di default è in forma :
 username@hostname:current_directory
