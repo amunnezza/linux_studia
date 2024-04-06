@@ -26,5 +26,13 @@ root> ifconfig eth0  NEW.IP.ADDRESS network__.___.___.__broadcast __.__.__.__
 Manda una richiesta con DHCP discover e riceve un offerta con DHCP offer. 
 ___________
 #### Manipulating DNS 
+Approfondimento su DNS si trova in [[DNS Tutorial part - DNS basics – DNS monitor]]
 
+Analisi di DNS si puo fare con il comando 
+_root> dig nomeDominio.com ns_
+che fornisce molte info ad esempio IP del server 
+Esiste anche per server mail con il comando simile 
+_root> dig nomeDominio.com mx_
+
+In generale in linux can check resolve.conf per vedere i nameserver e eventualmente aggiungere altri (es add nameserver 8.8.8.8 )
 

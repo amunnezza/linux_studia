@@ -8,30 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4f7bef79cc3c2c78",
+            "id": "3f7c32c4ef977ef9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DNS/DNS Tutorial part 1 - DNS basics – DNS monitor.md",
+                "file": "05 Control File and dir permissione.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "85df970cc37fbd5f",
+            "id": "8bb64115c8ee5f02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "markdownForInternalLinks/Esempio1.md",
+                "file": "04 Add or remove software.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DNS/DNS Tutorial part 1 - DNS basics – DNS monitor.md",
+                "file": "04 Add or remove software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DNS/DNS Tutorial part 1 - DNS basics – DNS monitor.md",
+                "file": "04 Add or remove software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DNS/DNS Tutorial part 1 - DNS basics – DNS monitor.md"
+                "file": "04 Add or remove software.md"
               }
             }
           },
@@ -149,8 +150,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,42 +158,48 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "switcher:Apri selezione rapida": false,
-      "graph:Apri vista grafo": false,
-      "canvas:Crea nuova lavagna": false,
-      "daily-notes:Apri nota del giorno": false,
-      "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4f7bef79cc3c2c78",
+  "active": "8bb64115c8ee5f02",
   "lastOpenFiles": [
-    "DNS/dns_multi_master_complex-01-1.webp",
-    "DNS/dns_multi_master_complex-01-1.webp.crdownload",
-    "DNS/dns_multi_master_simple-01.webp",
-    "DNS/dns_multi_master_simple-01.webp.crdownload",
-    "DNS/dns_ms-01.webp",
-    "DNS/dns_ms-01.webp.crdownload",
-    "DNS/dns_hidden_master-01-1.webp",
-    "DNS/dns_hidden_master-01-1.webp.crdownload",
-    "DNS/dns_classic-01.webp",
-    "DNS/dns_classic-01.webp.crdownload",
-    "DNS/resolver_1.webp",
-    "DNS/resolver_1.webp.crdownload",
-    "DNS/auth_dns_1.webp",
-    "DNS/auth_dns_1.webp.crdownload",
-    "DNS/4_domain_and_zone_definition.webp",
-    "DNS/4_domain_and_zone_definition.webp.crdownload",
-    "DNS/3_zone_definition.webp",
-    "DNS/3_zone_definition.webp.crdownload",
-    "DNS/2_domain_definition.webp",
-    "DNS/1_domain_definition.webp",
-    "DNS/DNS Tutorial part 1 - DNS basics – DNS monitor.md",
-    "DNS/2_domain_definition.webp.crdownload",
-    "10 File System and Storage Device.md",
-    "04 Network.md",
+    "05 Control File and dir permissione.md",
+    "04 Add or remove software.md",
     "markdownForInternalLinks/Esempio1.md",
+    "03 Network Analize and Manage.md",
+    "02 Text Manipulation.md",
+    "01 Basic Commands.md",
+    "00 File system structure.md",
+    "06 Process Management.md",
+    "07 Managing Environment Variable.md",
+    "DNS/DNS Tutorial part - DNS basics – DNS monitor.md",
+    "DNS/images/1_domain_definition.webp",
+    "DNS/images/3_zone_definition.webp",
+    "DNS/dns_classic-01.webp",
+    "DNS/images/resolver_1.webp",
+    "DNS/images/domain_name_tree_.webp",
+    "DNS/images/dns_multi_master_simple-01.webp",
+    "DNS/images/dns_multi_master_complex-01-1.webp",
+    "DNS/images/dns_ms-01.webp",
+    "DNS/images/dns_hidden_master-01-1.webp",
+    "DNS/images/dns_classic-01.webp",
+    "DNS/images",
+    "DNS/dns_multi_master_complex-01-1.webp.crdownload",
+    "DNS/dns_multi_master_simple-01.webp.crdownload",
+    "DNS/dns_ms-01.webp.crdownload",
+    "DNS/dns_hidden_master-01-1.webp.crdownload",
+    "DNS/dns_classic-01.webp.crdownload",
+    "DNS/resolver_1.webp.crdownload",
+    "DNS/auth_dns_1.webp.crdownload",
+    "DNS/4_domain_and_zone_definition.webp.crdownload",
+    "DNS/3_zone_definition.webp.crdownload",
+    "10 File System and Storage Device.md",
     "14 Undenstanding and inspecting wireless Networks.md",
     "Senza nome.md",
     "Scripting02.md",
@@ -202,15 +208,9 @@
     "DOCUMENTAZIONE.md",
     "08 Bash Scripting.md",
     "09 Compressing and Archiving.md",
-    "07 Managing Environment Variable.md",
     "07 Managing Kernel and Loadable Kernel Modules (LKM).md",
-    "06 Process Management.md",
-    "03 Text Manipulation.md",
-    "01 File system structure.md",
-    "02 Basic Commands.md",
     "GIT/Git Cheat Sheet – Git Commands You Should Know - IMPACTMILLIONS.md",
     "11 Logging System.md",
-    "04 Capitolo 3 - Control File and dir permissione.md",
     "Internal link.md"
   ]
 }
