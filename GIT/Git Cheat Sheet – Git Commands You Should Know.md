@@ -5,7 +5,7 @@ source: https://impactmillions.org/git-cheat-sheet-git-commands-you-should-know/
 author: scritto da                                      Anup Maurya
 ---
 
-# Git Cheat Sheet – Git Commands You Should Know - IMPACTMILLIONS
+# Git Cheat Sheet – Git Commands You Should Know
 
 > ## Excerpt
 > Git Cheat Sheet – Git Commands You Should Know. Git and GitHub are essential tools for developers to efficiently manage their code, collaborate with others ...
