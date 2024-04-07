@@ -9,7 +9,7 @@ Tipo owner Group users
 
 ## To change permission:
 
-Decimal NOtation
+Decimal Notation
 r--  rwx  rw_ 
 100 111 100    --> chmod 475  nomeFile
 4      7     5
