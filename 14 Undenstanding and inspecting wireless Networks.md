@@ -17,3 +17,16 @@ Before some basic Wi­Fi terms and technologies.
 - **Wireless range** In the United States, a Wi­Fi AP must legally broadcast its signal at an upper limit of 0.5 watts. At this power, it has a normal range of about 300 feet (100 meters). High­gain antennas can extend this range to as much as 20 miles. 
 - **Frequency** Wi­Fi is designed to operate on 2.4GHz and 5GHz. Modern Wi­Fi APs and wireless network cards often use both.
 
+
+#### Basic WIFI command
+
+kali > iwconfig
+
+da settaggi : di solito una connessione wifi è wlan0
+
+Interessante comando iwlist
+*kali > iwlist <interfaccia> <azione>*
+es.
+*kali> iwlist wlan0 scan* 
+
+Vedere anche bluetooth con suite bluez che ha diversi tool. 

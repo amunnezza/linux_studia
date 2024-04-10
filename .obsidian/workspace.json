@@ -8,49 +8,85 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f7c32c4ef977ef9",
+            "id": "0e9c4dc8bd2045e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Control File and dir permissione.md",
+                "file": "15 MANAGING THE LINUX KERNEL AND LOADABLE KERNEL MODULES.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8bb64115c8ee5f02",
+            "id": "e22a2794b4e43aba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 File System and Storage Device.md",
+                "file": "15 MANAGING THE LINUX KERNEL AND LOADABLE KERNEL MODULES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4051c1bbccb15b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "16 AUTOMATING TASKS WITH JOB SCHEDULING.md",
                 "mode": "source",
                 "source": false
               }
             },
-            "group": "2980d351f592542b"
+            "group": "9f81a5936f06f658"
+          },
+          {
+            "id": "27dea5f52e09c04a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "16 AUTOMATING TASKS WITH JOB SCHEDULING.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27f9eb926f769398",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DNS/DNS Tutorial part - DNS basics – DNS monitor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
-        "id": "0c7514b5f8fc95d5",
+        "id": "b5b892ca65fcc53d",
         "type": "tabs",
         "children": [
           {
-            "id": "2f40ad0f382612fd",
+            "id": "d3e7ecee5deda257",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 File System and Storage Device.md",
-                "mode": "source",
+                "file": "16 AUTOMATING TASKS WITH JOB SCHEDULING.md",
+                "mode": "preview",
                 "source": false
               }
             },
-            "group": "2980d351f592542b"
+            "group": "9f81a5936f06f658"
           }
         ]
       }
@@ -118,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 File System and Storage Device.md",
+                "file": "DNS/DNS Tutorial part - DNS basics – DNS monitor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 File System and Storage Device.md",
+                "file": "DNS/DNS Tutorial part - DNS basics – DNS monitor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 File System and Storage Device.md"
+                "file": "DNS/DNS Tutorial part - DNS basics – DNS monitor.md"
               }
             }
           },
@@ -187,21 +223,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8bb64115c8ee5f02",
+  "active": "27f9eb926f769398",
   "lastOpenFiles": [
+    "DOCUMENTAZIONE.md",
+    "Kernel.md",
+    "17 Python.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Senza nome.md",
+    "16 AUTOMATING TASKS WITH JOB SCHEDULING.md",
+    "15 MANAGING THE LINUX KERNEL AND LOADABLE KERNEL MODULES.md",
+    "14 Undenstanding and inspecting wireless Networks.md",
+    "12 Using and abusing services.md",
+    "11 Logging System.md",
+    "05 Control File and dir permissione.md",
+    "13 Becoming secure and anonymous.md",
+    "03 Network Analize and Manage.md",
+    "10 File System and Storage Device.md",
     "images/standard-unix-filesystem-hierarchy-1.webp",
     "GIT/Git Cheat Sheet – Git Commands You Should Know.md",
     "09 Compressing and Archiving.md",
-    "10 File System and Storage Device.md",
-    "11 Logging System.md",
-    "14 Undenstanding and inspecting wireless Networks.md",
     "08 Bash Scripting.md",
     "07 Managing Environment Variable.md",
     "06 Process Management.md",
-    "05 Control File and dir permissione.md",
     "04 Add or remove software.md",
     "markdownForInternalLinks/Esempio1.md",
-    "03 Network Analize and Manage.md",
     "02 Text Manipulation.md",
     "01 Basic Commands.md",
     "00 File system structure.md",
@@ -215,7 +261,6 @@
     "DNS/images/dns_multi_master_complex-01-1.webp",
     "DNS/images/dns_ms-01.webp",
     "DNS/images/dns_hidden_master-01-1.webp",
-    "DNS/images/dns_classic-01.webp",
     "DNS/images",
     "DNS/dns_multi_master_complex-01-1.webp.crdownload",
     "DNS/dns_multi_master_simple-01.webp.crdownload",
@@ -225,13 +270,6 @@
     "DNS/resolver_1.webp.crdownload",
     "DNS/auth_dns_1.webp.crdownload",
     "DNS/4_domain_and_zone_definition.webp.crdownload",
-    "DNS/3_zone_definition.webp.crdownload",
-    "Senza nome.md",
-    "Scripting02.md",
-    "Scripting01-Intro.md",
-    "README.md",
-    "DOCUMENTAZIONE.md",
-    "07 Managing Kernel and Loadable Kernel Modules (LKM).md",
-    "Internal link.md"
+    "DNS/3_zone_definition.webp.crdownload"
   ]
 }
