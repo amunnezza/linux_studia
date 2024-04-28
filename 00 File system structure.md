@@ -9,3 +9,4 @@ _**/home**_ Users home
 Queste sono le piu importanti per le altre vedere immagine sotto
 ![[standard-unix-filesystem-hierarchy-1.webp]]
 
+o anche ![[151.webp]]
