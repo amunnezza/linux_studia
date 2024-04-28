@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scripting01-Intro.md",
+                "file": "Scripting02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb356224b0cdce47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alcuni comandi utili da coordinare con il resto.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scripting01-Intro.md",
+                "file": "Alcuni comandi utili da coordinare con il resto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scripting01-Intro.md",
+                "file": "Alcuni comandi utili da coordinare con il resto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scripting01-Intro.md"
+                "file": "Alcuni comandi utili da coordinare con il resto.md"
               }
             }
           },
@@ -154,23 +167,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "27f9eb926f769398",
+  "active": "cb356224b0cdce47",
   "lastOpenFiles": [
+    "Scripting02.md",
+    "Alcuni comandi utili da coordinare con il resto.md",
+    "README.md",
+    "Scripting01-Intro.md",
     "00 File system structure.md",
     "GIT/Git Cheat Sheet – Git Commands You Should Know.md",
-    "README.md",
     "DOCUMENTAZIONE.md",
     "15 MANAGING THE LINUX KERNEL AND LOADABLE KERNEL MODULES.md",
     "16 AUTOMATING TASKS WITH JOB SCHEDULING.md",
     "[ DevCourseWeb.com ] Udemy - Linux Mastery - Real-World Job Simulation Projects - collegamento.lnk",
-    "Scripting01-Intro.md",
     "DNS/DNS Tutorial part - DNS basics – DNS monitor.md",
     "images/151.webp",
     "images/151.webp.crdownload",
     "Kernel.md",
     "17 Python.md",
     "Untitled 1.md",
-    "Untitled.md",
     "Senza nome.md",
     "14 Undenstanding and inspecting wireless Networks.md",
     "12 Using and abusing services.md",
@@ -185,7 +199,6 @@
     "07 Managing Environment Variable.md",
     "06 Process Management.md",
     "04 Add or remove software.md",
-    "markdownForInternalLinks/Esempio1.md",
     "DNS/images/1_domain_definition.webp",
     "DNS/images/3_zone_definition.webp",
     "DNS/dns_classic-01.webp",
