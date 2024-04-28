@@ -27,13 +27,9 @@ Keep in mind if you do that you're probably going to be making good use of the p
 By the way all the scripts you'll see and the lessons are included in the course download so you can
 quickly refer back to them without having to read watch the entire lessons.
 If you choose to simply watch and absorb all the information coming at you during the next four lessons
-that's perfectly fine too because you'll get to practice those skills while working on the first scripting
-exercise after those first four initial lessons you're going to get some very clear instructions on
-what the shellscript should do and how it should work.
+that's perfectly fine too because you'll get to practice those skills while working on the first scripting exercise after those first four initial lessons you're going to get some very clear instructions on what the shellscript should do and how it should work.
 Then you'll go off in a write and test that shellscript on your own.
-Of course you can refer to any of their previous lessons and demonstration scripts to help you complete
-that script after you write your script you'll get a chance to see me work through the exact same exercise
-you'll look over my shoulder as I write the shell script.
+Of course you can refer to any of their previous lessons and demonstration scripts to help you complete that script after you write your script you'll get a chance to see me work through the exact same exercise you'll look over my shoulder as I write the shell script.
 So that's what's in store for you.
 All right.
 Enough background information.
